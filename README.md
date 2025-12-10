@@ -1,1 +1,1 @@
-# Neurolang landing
+# Landing
